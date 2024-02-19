@@ -1,14 +1,5 @@
-<<<<<<< HEAD
-# guitarla-vue-app1
+# Proyecto inicial con VUE
+Este proyecto es una única página que tiene un header con un carrito que se despliega con el hover y guitarras debajo para añadirlas al carrito. El carrito permite eliminar artículo y modificar su cantidad. Hay 3 componentes: App.vue, Guitarra.vue y Carrito.vue. Es bonita, funcional y simple.
 
-Primer proyecto en VueJS, me parece un framework genial y muy potente. Este proyecto incluye los essentials de Vue: Watch, Computed, onMounted, Event binding, directivas (v-bind, v-for, v-on, v-if), etc. Muy chulo, he disfrutado y ahora a por el segundo
-
-=======
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
->>>>>>> master
+# Imagen del resultado
+![Imagen de la web](/public/imagen-web.png)
